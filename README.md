@@ -1,5 +1,4 @@
 # DSC180A-Methodology-4
 
-Ruoyu Hou
+Ruoyu Hou and Jing Wen Lin
 
-rhou@ucsd.edu
